@@ -1,0 +1,6 @@
+box-shadow : 0 2px 48px 0 rgba(0, 0, 0, 0.10);
+
+#ff589e bink 
+#8261ee purple
+#777
+justify-content-between
